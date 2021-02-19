@@ -1,16 +1,52 @@
-### Hi there 👋
+[![Header](assets/header.gif "Header")](https://www.lorenzofratus.it/)
 
-<!--
-**lorenzofratus/lorenzofratus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, there! ✌️
 
-Here are some ideas to get you started:
+## 👨‍💻 Anything you need to know about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const myself = {
+    firstName: 'Lorenzo',
+    lastName: 'Fratus',
+    country: 'Italy',
+    contact: 'info@lorenzofratus.it',
+    status: {
+        main: 'College student',
+        occasional: 'Web developer',
+    },
+    education: () => {
+        const expectedGraduation = new Date(2022, 7, 0);
+        return Date.now() < expectedGraduation
+            ? {
+                major: 'Computer Science',
+                degree: 'Ingegneria Informatica',
+                level: 'Bachelor',
+                university: 'Politecnico di Milano'
+            }
+            : {
+                major: 'Computer Science',
+                degree: 'Computer Science and Engineering',
+                level: 'Master',
+                university: 'Politecnico di Milano'
+            }
+    },
+    languages: {
+        favorite: 'JavaScript',
+        oftenUsed: [
+            'Java',
+            'Dart',
+            'HTML',
+            'CSS'
+        ],
+        occasional: 'C'
+    },
+    tools: [
+        'NodeJS',
+        'ExpressJS',
+        'MySQL',
+        'Flutter',
+        'Wordpress',
+        'Adobe suite'
+    ]
+}
+```
