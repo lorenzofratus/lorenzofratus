@@ -1,4 +1,4 @@
-[![Header](assets/header.gif "Header")](https://www.lorenzofratus.it/)
+[![Lorenzo Fratus](assets/header.gif "Lorenzo Fratus")](https://www.lorenzofratus.it/)
 
 # Hi, there! ✌️
 
