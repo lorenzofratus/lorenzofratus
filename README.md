@@ -11,11 +11,11 @@ const myself = {
     country: 'Italy',
     contact: 'info@lorenzofratus.it',
     status: {
-        main: 'College student',
-        occasional: 'Web developer',
+        current: 'College student',
+        future: 'Software engineer',
     },
     education: () => {
-        const expectedGraduation = new Date(2022, 7, 0);
+        const expectedGraduation = new Date(2022, 12, 0);
         return Date.now() < expectedGraduation
             ? {
                 major: 'Computer Science',
@@ -33,18 +33,22 @@ const myself = {
     languages: {
         favorite: 'JavaScript',
         oftenUsed: [
-            'Java',
             'Dart',
+            'Java',
             'HTML',
             'CSS'
         ],
-        occasional: 'C'
+        occasional: [
+            'C++'
+            'C'
+        ]
     },
     tools: [
+        'Flutter',
         'NodeJS',
         'ExpressJS',
+        'NuxtJS',
         'MySQL',
-        'Flutter',
         'Wordpress',
         'Adobe suite'
     ]
