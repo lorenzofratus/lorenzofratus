@@ -35,6 +35,7 @@ const myself = {
         oftenUsed: [
             'Dart',
             'Java',
+            'Python',
             'HTML',
             'CSS'
         ],
