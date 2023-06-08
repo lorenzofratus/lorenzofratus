@@ -40,9 +40,9 @@ const myself = {
         favorite: "JavaScript",
         oftenUsed: [
             "TypeScript",
+            "Python",
             "Dart",
             "Java",
-            "Python",
             "HTML",
             "CSS"
         ],
