@@ -1,6 +1,4 @@
-<a href="https://lorenzofratus.it" style="display:block;text-align:center">
-    <img src="assets/header.png" style="width:100%;max-width:600px;padding:30px 0;margin:0 auto;" alt="Lorenzo Fratus" />
-</a>
+[![Lorenzo Fratus](assets/header.png)](https://lorenzofratus.it)
 
 # Hi, there! ✌️
 
