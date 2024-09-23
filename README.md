@@ -1,7 +1,5 @@
-<a href="https://lorenzofratus.it" style="display:block;text-align:center">
-    <img src="assets/header-dark.png#gh-dark-mode-only" style="width:100%;max-width:600px;padding:30px 0;margin:0 auto;" alt="Lorenzo Fratus" />
-    <img src="assets/header-light.png#gh-light-mode-only" style="width:100%;max-width:600px;padding:30px 0;margin:0 auto;" alt="Lorenzo Fratus" />
-</a>
+[![Lorenzo Fratus](assets/header-light.png#gh-light-mode-only)
+![Lorenzo Fratus](assets/header-dark.png#gh-dark-mode-only)](https://lorenzofratus.it)
 
 # Hi, there! ✌️
 
