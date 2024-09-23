@@ -1,4 +1,7 @@
-[![Lorenzo Fratus](assets/header.gif "Lorenzo Fratus")](https://www.lorenzofratus.it/)
+<a href="https://lorenzofratus.it" style="display:block;text-align:center">
+    <img src="assets/header-dark.png#gh-dark-mode-only" style="width:100%;max-width:600px;padding:30px 0;margin:0 auto;" alt="Lorenzo Fratus" />
+    <img src="assets/header-light.png#gh-light-mode-only" style="width:100%;max-width:600px;padding:30px 0;margin:0 auto;" alt="Lorenzo Fratus" />
+</a>
 
 # Hi, there! ✌️
 
@@ -10,6 +13,7 @@ const myself = {
     lastName: "Fratus",
     country: "Italy",
     contact: "info@lorenzofratus.it",
+    website: "https://lorenzofratus.it",
     workStatus: [
         {
             role: "Founder",
@@ -37,14 +41,13 @@ const myself = {
             }
     },
     languages: {
-        favorite: "JavaScript",
+        favorite: "TypeScript",
         oftenUsed: [
-            "TypeScript",
+            "JavaScript",
             "Python",
-            "Dart",
             "Java",
             "HTML",
-            "CSS"
+            "CSS/SCSS"
         ],
         occasional: [
             "C++",
@@ -53,15 +56,25 @@ const myself = {
     },
     frameworks: [
         "React",
-        "Flutter",
-        "CAP",
-        "Vue",
-        "Express"
+        "Next.js",
+        "SAP CAP"
+    ],
+    runtimes: [
+        "Node.js",
+        "Kyma"
+    ],
+    cloudPlatforms: [
+        "SAP BTP",
+        "Google Cloud Platform"
     ],
     tools: [
+        "TailwindCSS",
         "Figma",
         "Adobe Illustrator",
-        "Adobe Photoshop"
+        "Adobe Photoshop",
+        "Affinity Designer",
+        "Affinity Photo",
+        "Affinity Publisher"
     ]
 }
 ```
